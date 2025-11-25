@@ -14,7 +14,7 @@ Coming soon.
 
 - Patricia Ferreira da Silva
 - Italo Da Silva Oliveira
-- Giorgio A. Ubbiali
+- [Giorgio A. Ubbiali](https://orcid.org/0000-0001-7872-1770)
 
 
 ## Currently involved institutions 
