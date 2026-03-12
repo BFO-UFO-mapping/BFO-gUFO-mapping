@@ -19,6 +19,6 @@ Coming soon.
 
 ## Currently involved institutions 
 
-[PTH Brixen College](https://www.pthsta.it/)
+[Philosophical-theological College Brixen](https://www.pthsta.it/)
 
-[UT](https://www.utwente.nl/en/)
+[University of Twente](https://www.utwente.nl/en/)
