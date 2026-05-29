@@ -1,0 +1,18 @@
+# VIM
+# Persistent undo
+[._]*.un~
+
+# Protégé
+catalog-v001.xml
+
+# Visual Paradigm files
+**/*.vpp.bak*
+**/*.vpp.vbak*
+**/*.lck
+
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
