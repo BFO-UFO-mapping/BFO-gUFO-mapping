@@ -8,7 +8,7 @@ This repository maintains the BFO-to-UFO transformation patterns. These patterns
 
 This is the main repository for the transformation patterns from BFO2020 to gUFO.
 The relevant materials can be found here:
-- Transformation pattern, in pdf format.
+- Transformation patterns, in pdf format.
 - [Examples of ontologies translated using the transfomration patterns](https://github.com/BFO-UFO-mapping/BFO-gUFO-mapping/tree/main/materials/transformation%20examples), rendered in [Terse RDF Triple Language](https://www.w3.org/TR/turtle/).
   - [GeoCore-U](https://github.com/BFO-UFO-mapping/BFO-gUFO-mapping/blob/main/materials/transformation%20examples/geocore-u.ttl) from GeoCore.
   - [OntoNeo-U](https://github.com/BFO-gUFO-mapping/BFO-gUFO-mapping/blob/main/materials/transformation%20examples/ontoneo-u.ttl) from OntoNeo.
