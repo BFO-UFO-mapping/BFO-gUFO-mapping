@@ -10,8 +10,8 @@ This is the main repository for the transformation patterns from BFO2020 to gUFO
 The relevant materials can be found here:
 - [Transformation patterns](https://github.com/BFO-gUFO-mapping/BFO-gUFO-mapping/blob/main/Transformation%20Patterns%20-%20BFO%20to%20gUFO.pdf), in pdf format (an initial draft, as of 2026-09-17). (*Acknowledgements*: Definitions and examples referred to in this document derive from the documentation and annotations proposed within the OWL files of BFO, gUFO, the [Sustainability Core Ontology (SCO)](https://w3id.org/sco/repo), and the following two example ontologies. We state this as the main citation for intellectual property rights over such reused content.)
 - [Examples of ontologies translated using the transformation patterns](https://github.com/BFO-UFO-mapping/BFO-gUFO-mapping/tree/main/materials/transformation%20examples), rendered in [Terse RDF Triple Language](https://www.w3.org/TR/turtle/).
-  - [GeoCore-U](https://github.com/BFO-UFO-mapping/BFO-gUFO-mapping/blob/main/materials/transformation%20examples/geocore-u.ttl) from GeoCore.
-  - [OntoNeo-U](https://github.com/BFO-gUFO-mapping/BFO-gUFO-mapping/blob/main/materials/transformation%20examples/ontoneo-u.ttl) from OntoNeo.
+  - [GeoCore-U](https://github.com/BFO-UFO-mapping/BFO-gUFO-mapping/blob/main/materials/transformation%20examples/geocore-u.ttl) from [GeoCore](https://github.com/BDI-UFRGS/GeoCoreOntology).
+  - [OntoNeo-U](https://github.com/BFO-gUFO-mapping/BFO-gUFO-mapping/blob/main/materials/transformation%20examples/ontoneo-u.ttl) from [OntoNeo](https://github.com/ontoneo-project/Ontoneo).
 
 ## Developers and contributors
 
